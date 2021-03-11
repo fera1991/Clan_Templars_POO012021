@@ -1,0 +1,16 @@
+C:\Users\HP\Desktop\POO\Clan\intrgithub\obj\Debug\net5.0\intrgithub.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\POO\Clan\intrgithub\obj\Debug\net5.0\intrgithub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\POO\Clan\intrgithub\obj\Debug\net5.0\intrgithub.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\POO\Clan\intrgithub\obj\Debug\net5.0\intrgithub.AssemblyInfo.cs
+C:\Users\HP\Desktop\POO\Clan\intrgithub\obj\Debug\net5.0\intrgithub.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\POO\Clan\intrgithub\bin\Debug\net5.0\intrgithub.exe
+C:\Users\HP\Desktop\POO\Clan\intrgithub\bin\Debug\net5.0\intrgithub.deps.json
+C:\Users\HP\Desktop\POO\Clan\intrgithub\bin\Debug\net5.0\intrgithub.runtimeconfig.json
+C:\Users\HP\Desktop\POO\Clan\intrgithub\bin\Debug\net5.0\intrgithub.runtimeconfig.dev.json
+C:\Users\HP\Desktop\POO\Clan\intrgithub\bin\Debug\net5.0\intrgithub.dll
+C:\Users\HP\Desktop\POO\Clan\intrgithub\bin\Debug\net5.0\ref\intrgithub.dll
+C:\Users\HP\Desktop\POO\Clan\intrgithub\bin\Debug\net5.0\intrgithub.pdb
+C:\Users\HP\Desktop\POO\Clan\intrgithub\obj\Debug\net5.0\intrgithub.dll
+C:\Users\HP\Desktop\POO\Clan\intrgithub\obj\Debug\net5.0\ref\intrgithub.dll
+C:\Users\HP\Desktop\POO\Clan\intrgithub\obj\Debug\net5.0\intrgithub.pdb
+C:\Users\HP\Desktop\POO\Clan\intrgithub\obj\Debug\net5.0\intrgithub.genruntimeconfig.cache
