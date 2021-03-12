@@ -14,12 +14,12 @@ namespace intrgithub
             Console.WriteLine("Enter a value for b :  ");
             b = Int32.Parse(Console.ReadLine());
 
-            Console.WriteLine($"Adding {a} + {b} equals {addnumbers(a,b)} ");
+            Console.WriteLine($"Adding {a} * {b} equals {addnumbers(a,b)} ");
         }
 
         public static int addnumbers(int a,int b)
         {
-            return a-b;
+            return a*b;
         }
 
         
