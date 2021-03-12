@@ -14,3 +14,19 @@ C:\Users\HP\Desktop\POO\Clan\intrgithub\obj\Debug\net5.0\intrgithub.dll
 C:\Users\HP\Desktop\POO\Clan\intrgithub\obj\Debug\net5.0\ref\intrgithub.dll
 C:\Users\HP\Desktop\POO\Clan\intrgithub\obj\Debug\net5.0\intrgithub.pdb
 C:\Users\HP\Desktop\POO\Clan\intrgithub\obj\Debug\net5.0\intrgithub.genruntimeconfig.cache
+C:\Users\PC\OneDrive\Escritorio\Nueva carpeta (2)\Clan_Templars_POO012021\intrgithub\bin\Debug\net5.0\intrgithub.exe
+C:\Users\PC\OneDrive\Escritorio\Nueva carpeta (2)\Clan_Templars_POO012021\intrgithub\bin\Debug\net5.0\intrgithub.deps.json
+C:\Users\PC\OneDrive\Escritorio\Nueva carpeta (2)\Clan_Templars_POO012021\intrgithub\bin\Debug\net5.0\intrgithub.runtimeconfig.json
+C:\Users\PC\OneDrive\Escritorio\Nueva carpeta (2)\Clan_Templars_POO012021\intrgithub\bin\Debug\net5.0\intrgithub.runtimeconfig.dev.json
+C:\Users\PC\OneDrive\Escritorio\Nueva carpeta (2)\Clan_Templars_POO012021\intrgithub\bin\Debug\net5.0\intrgithub.dll
+C:\Users\PC\OneDrive\Escritorio\Nueva carpeta (2)\Clan_Templars_POO012021\intrgithub\bin\Debug\net5.0\ref\intrgithub.dll
+C:\Users\PC\OneDrive\Escritorio\Nueva carpeta (2)\Clan_Templars_POO012021\intrgithub\bin\Debug\net5.0\intrgithub.pdb
+C:\Users\PC\OneDrive\Escritorio\Nueva carpeta (2)\Clan_Templars_POO012021\intrgithub\obj\Debug\net5.0\intrgithub.csprojAssemblyReference.cache
+C:\Users\PC\OneDrive\Escritorio\Nueva carpeta (2)\Clan_Templars_POO012021\intrgithub\obj\Debug\net5.0\intrgithub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Escritorio\Nueva carpeta (2)\Clan_Templars_POO012021\intrgithub\obj\Debug\net5.0\intrgithub.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Escritorio\Nueva carpeta (2)\Clan_Templars_POO012021\intrgithub\obj\Debug\net5.0\intrgithub.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Escritorio\Nueva carpeta (2)\Clan_Templars_POO012021\intrgithub\obj\Debug\net5.0\intrgithub.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Escritorio\Nueva carpeta (2)\Clan_Templars_POO012021\intrgithub\obj\Debug\net5.0\intrgithub.dll
+C:\Users\PC\OneDrive\Escritorio\Nueva carpeta (2)\Clan_Templars_POO012021\intrgithub\obj\Debug\net5.0\ref\intrgithub.dll
+C:\Users\PC\OneDrive\Escritorio\Nueva carpeta (2)\Clan_Templars_POO012021\intrgithub\obj\Debug\net5.0\intrgithub.pdb
+C:\Users\PC\OneDrive\Escritorio\Nueva carpeta (2)\Clan_Templars_POO012021\intrgithub\obj\Debug\net5.0\intrgithub.genruntimeconfig.cache
