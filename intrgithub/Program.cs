@@ -19,7 +19,7 @@ namespace intrgithub
 
         public static int addnumbers(int a,int b)
         {
-            return a+b;
+            return a-b;
         }
 
         
